@@ -1,5 +1,16 @@
 header{
-    border: 3px solid blue;
+    height: 300px
 }
-.top-header{background: lightcoral;}
-.bottom-header{background: rgb(0, 191, 255);}
+.bottom-header{
+    height: 70%;
+}
+.logo{
+    height: 100%;
+}
+.logo_a{
+    display: inline-block;
+    height: 100%;
+}
+.logo_img{
+    height: 100%;
+}
